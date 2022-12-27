@@ -1,0 +1,19 @@
+{
+  "name": "ts-kurs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ptb92zgr/ts-kurs.git"
+  },
+  "author": "patryk janicki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ptb92zgr/ts-kurs/issues"
+  },
+  "homepage": "https://github.com/ptb92zgr/ts-kurs#readme"
+}
